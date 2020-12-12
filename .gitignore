@@ -116,5 +116,5 @@ config/config.json
 **/Wav*.xls
 **/Lpf*.xls
 docs/examples/*.h5
-adocs/examples/example_Physionet2011/
-a/!portable/example_Physionet2011/  
+docs/examples/example_Physionet2011/
+/!portable/example_Physionet2011/  
