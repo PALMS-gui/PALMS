@@ -1,0 +1,6 @@
+winLen,labels,keys,description,default_label
+10,0 (Q0),0,bad quality,"3 (Q2,M0)"
+,"1 (Q1,M0)",1,"mediocre quality, bad morphology",
+,"2 (Q1,M1)",2,"mediocre quality, good morphology",
+,"3 (Q2,M0)",3,"good quality, bad morphology",
+,"4 (Q2,M1)",4,"good quality, good morphology",

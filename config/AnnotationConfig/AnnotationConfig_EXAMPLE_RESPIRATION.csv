@@ -1,0 +1,5 @@
+name,key,is_pinned,pinned_to,pinned_window,min_distance,symbol,symbol_size,symbol_colour
+peak,p,1,peak,0.5,0.5,o,6,r
+valley,v,1,valley,0.5,0.5,s,8,w
+upstroke,r,0,peak,0.5,0.5,t,6,g
+downstroke,f,0,valley,0.5,0.5,d,6,m

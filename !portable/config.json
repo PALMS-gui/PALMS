@@ -1,0 +1,40 @@
+{
+    "panel_height": 800,
+    "yrange_margin": 0.1,
+    "partition_labels_font_size": 35,
+    "epoch_labels_font_size": 30,
+    "min_xzoom_factor": 10,
+    "autoscale_y": true,
+    "save_tracks": true,
+    "save_overwrite": true,
+    "show_cursor": false,
+    "show_xaxis_label": false,
+    "autoplay_timer_interval": 800,
+    "default_mode": "annotation",
+    "viewer_window_size": [
+        1854,
+        1057
+    ],
+    "initial_partition_span_sec": 3,
+    "annotationConfig_columns": [
+        "name",
+        "key",
+        "is_pinned",
+        "pinned_to",
+        "pinned_window",
+        "min_distance",
+        "symbol",
+        "symbol_size",
+        "symbol_colour"
+    ],
+    "default_partition_labels": [
+        "start",
+        "end",
+        "artifact"
+    ],
+    "pinned_to_options": [
+        "peak",
+        "valley"
+    ],
+    "prev_database": "EXAMPLE_RESPIRATION"
+}

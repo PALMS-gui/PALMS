@@ -1,0 +1,3 @@
+name,key,is_pinned,pinned_to,pinned_window,min_distance,symbol,symbol_size,symbol_colour
+rpeak,r,1,peak,0.1,0.2,o,6,r
+abnormal,f,0,peak,0.1,0.2,o,6,w

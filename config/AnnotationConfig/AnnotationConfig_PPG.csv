@@ -1,0 +1,4 @@
+name,key,is_pinned,pinned_to,pinned_window,min_distance,symbol,symbol_size,symbol_colour
+peak,r,1,peak ppg_filt,0.05,0.3,o,6,r
+foot,v,1,valley ppg_filt,0.05,0.3,s,6,w
+upstroke,f,1,peak d_ppg,0.05,0.3,t,6,g
