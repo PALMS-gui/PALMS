@@ -1,5 +1,7 @@
 # PALMS
 Platform for Analysis and Labeling of Medical Time Series  
+This software features the following pubication: 
+https://www.mdpi.com/1424-8220/20/24/7302/htm
 
 ##### Fiducials annotation: https://vimeo.com/490142964    
 ![Fiducials annotation](https://i.ibb.co/qyJfgK5/FIG3.png)  
@@ -13,9 +15,6 @@ Copyright (c) 2020 Stichting imec Nederland (PALMS@imec.nl)
 https://www.imec-int.com/en/imec-the-netherlands  
 @license GPL-3.0+ <http://spdx.org/licenses/GPL-3.0+>  
 See COPYING, README.  
-
-# PUBLICATION
-This software features the following pubication: 
 
 # ATTRIBUTION
 This software includes (modified) third party open source software components distributed under the MIT license:  
